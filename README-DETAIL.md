@@ -140,14 +140,15 @@
   * do while
   * for of
   * for in
-* High Order Array Methods
-* Arrow functions
-* Constructor Functions & Prototypes Intro
-* ES6 Classes Intro
 
 ---
 
 ### Day 2 (1.5hrs)
+
+* High Order Array Methods
+* Arrow functions
+* Constructor Functions & Prototypes Intro
+* ES6 Classes Intro
 
 #### DOM Manipulation
 
