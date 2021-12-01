@@ -145,8 +145,22 @@
 
 ### Day 2 (1.5hrs)
 
-* High Order Array Methods
+* Function
+  * Function call
+  * Function apply
+  * Function closures
 * Arrow functions
+* High Order Array Methods
+  * map
+  * filter
+  * reduce
+  * forEach
+  * some
+  * every
+  * flat
+  * flatMap
+  * find
+  * sort
 * Constructor Functions & Prototypes Intro
 * ES6 Classes Intro
 

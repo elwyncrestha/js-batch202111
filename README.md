@@ -40,8 +40,9 @@
 
 ### Day 2 (1.5hrs)
 
-* High Order Array Methods
+* Function
 * Arrow functions
+* High Order Array Methods
 * Constructor Functions & Prototypes Intro
 * ES6 Classes Intro
 
