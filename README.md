@@ -31,10 +31,6 @@
 * JSON
 * Conditionals
 * Loops
-  * for
-  * while
-  * do while
-  * for of
 
 ---
 
@@ -45,38 +41,36 @@
 * High Order Array Methods
 * Constructor Functions & Prototypes Intro
 * ES6 Classes Intro
-
-#### DOM Manipulation
-
-* Window Object
-* DOM
-* DOM Selection
-  * Single element selection
-  * Multiple elements selection
-* Manipulating The DOM
-* Creating elements
-* Removing the elements
-* Events
-* Event bubbling and delegation
+* Prototypes
+* Prototypal Inheritance
+* ES6 Classes and Sub Classes
 
 ---
 
 ### Day 3 (1.5hrs)
 
-* Prototypes
-* Prototypal Inheritance
-* ES6 Classes and Sub Classes
+#### DOM (Document Object Model) Manipulation
+
+* Window Object
+* DOM
+* DOM Selection
+* Manipulating The DOM
+* Creating elements
+* Removing the elements
+* Events
+* Event bubbling and capturing
+* Event Delegation
+
+---
+
+### Day 4 (1.5hrs)
+
 * Asynchronous programming
 * Ajax and XHR
 * Callbacks
 * Fetch API
 * ES6 Promises
 * Async/Await
-
----
-
-### Day 4 (1.5hrs)
-
 * Module pattern
 * Local storage
 * Session storage

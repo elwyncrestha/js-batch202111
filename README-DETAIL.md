@@ -163,38 +163,46 @@
   * sort
 * Constructor Functions & Prototypes Intro
 * ES6 Classes Intro
-
-#### DOM Manipulation
-
-* Window Object
-* DOM
-* DOM Selection
-  * Single element selection
-  * Multiple elements selection
-* Manipulating The DOM
-* Creating elements
-* Removing the elements
-* Events
-* Event bubbling and delegation
+* Prototypes
+* Prototypal Inheritance
+* ES6 Classes and Sub Classes
 
 ---
 
 ### Day 3 (1.5hrs)
 
-* Prototypes
-* Prototypal Inheritance
-* ES6 Classes and Sub Classes
+#### DOM Manipulation
+
+* Window Object
+* DOM
+  * language independent interface
+  * is not part of the JavaScript language
+  * a standard for accessing documents
+* DOM Selection
+  * Single element selection
+  * Multiple elements selection
+* Manipulating The DOM
+  * Changing HTML content
+  * Changing the value of an attribute
+* Creating elements
+* Removing the elements
+* Events
+  * Event attributes
+  * Assign Events using the HTML DOM
+  * Event Listener
+* Event bubbling and capturing
+* Event delegation
+
+---
+
+### Day 4 (1.5hrs)
+
 * Asynchronous programming
 * Ajax and XHR
 * Callbacks
 * Fetch API
 * ES6 Promises
 * Async/Await
-
----
-
-### Day 4 (1.5hrs)
-
 * Module
 * Local storage
 * Session storage
