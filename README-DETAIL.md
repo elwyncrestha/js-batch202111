@@ -197,15 +197,15 @@
 
 ### Day 4 (1.5hrs)
 
+* Try/catch error handling
 * Asynchronous programming
-* Ajax and XHR
 * Callbacks
-* Fetch API
 * ES6 Promises
 * Async/Await
-* Module
+* Ajax and XHR
+* Fetch API
 * Local storage
 * Session storage
-* Try/catch error handling
+* Module pattern
 
 ---
